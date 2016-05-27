@@ -29,7 +29,7 @@
 		</Style>
 	<Placemark>
 			<name>Polygon</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>https://raw.githubusercontent.com/CarlVanderLaan/FlitchandGrain/master/Delivery%20Map/kml-styles.kml#green</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
