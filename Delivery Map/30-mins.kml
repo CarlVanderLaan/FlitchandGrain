@@ -31,6 +31,7 @@
 			<name>Polygon</name>
 			<styleUrl>https://raw.githubusercontent.com/CarlVanderLaan/FlitchandGrain/master/Delivery%20Map/kml-styles.kml#green</styleUrl>
 			<Polygon>
+				<color>ff00FFFF</color>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
 					<LinearRing>
