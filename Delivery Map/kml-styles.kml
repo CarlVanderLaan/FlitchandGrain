@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+    <name>KML Styles</name>
+    <open>1</open>
+    <Style id="red">
+        <LineStyle>
+            <color>501400FF</color>
+            <width>0</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>501400FF</color>
+        </PolyStyle>
+    </Style>
+    <Style id="orange">
+        <LineStyle>
+            <color>501478FF</color>
+            <width>0</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>501478FF</color>
+        </PolyStyle>
+    </Style>
+    <Style id="yellow">
+        <LineStyle>
+            <color>5014F0FF</color>
+            <width>0</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>5014F0FF</color>
+        </PolyStyle>
+    </Style>
+    <Style id="green">
+        <LineStyle>
+            <color>5000FF14</color>
+            <width>0</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>5000FF14</color>
+        </PolyStyle>
+    </Style>
+</Document>
+</kml>

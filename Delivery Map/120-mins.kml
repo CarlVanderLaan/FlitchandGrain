@@ -7,11 +7,11 @@
 		<StyleMap id="msn_ylw-pushpin">
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#sn_ylw-pushpin</styleUrl>
+				<styleUrl>kml-styles.kml#red</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#sh_ylw-pushpin</styleUrl>
+				<styleUrl>kml-styles.kml</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id="sn_ylw-pushpin">
