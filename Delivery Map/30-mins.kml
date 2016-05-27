@@ -4,14 +4,14 @@
 		<name>Free Map Tools How Far Can I Travel Map</name>
 		<description>Free Map Tools How Far Can I Travel Map</description>
 		<gx:balloonVisibility>1</gx:balloonVisibility>
-		<StyleMap id="msn_ylw-pushpin">
+		<StyleMap id="green">
 			<Pair>
 				<key>normal</key>
 				<styleUrl>https://raw.githubusercontent.com/CarlVanderLaan/FlitchandGrain/master/Delivery%20Map/kml-styles.kml#green</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#sh_ylw-pushpin</styleUrl>
+				<styleUrl>https://raw.githubusercontent.com/CarlVanderLaan/FlitchandGrain/master/Delivery%20Map/kml-styles.kml#green</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id="sn_ylw-pushpin">
@@ -19,7 +19,7 @@
 				<color>5000FF14</color>
 			</PolyStyle>
 		</Style>
-		<Style id="sh_ylw-pushpin">
+		<Style id="green">
 			<IconStyle>
 				<scale>1.2</scale>
 			</IconStyle>
