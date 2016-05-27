@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Free Map Tools How Far Can I Travel Map</name>
+		<description>Free Map Tools How Far Can I Travel Map</description>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin">
+			<PolyStyle>
+				<color>7fff0000</color>
+			</PolyStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.2</scale>
+			</IconStyle>
+			<PolyStyle>
+				<color>7fff0000</color>
+			</PolyStyle>
+		</Style>
+	<Placemark>
+			<name>Polygon</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>-85.64030000000001,42.23986,0 -85.64030000000001,42.23986,0 -85.64030000000001,42.23986,0 -85.64030000000001,42.23986,0 -85.67913,42.258790000000005,0 -85.74187,42.29531,0 -85.74187,42.29531,0 -85.90833,42.593740000000004,0 -85.90833,42.593740000000004,0 -85.90833,42.593740000000004,0 -86.23594000000001,42.45528,0 -86.08743000000001,42.95740000000001,0 -86.08743000000001,42.95740000000001,0 -86.08743000000001,42.95740000000001,0 -86.24229000000001,43.328540000000004,0 -86.24364000000001,43.335640000000005,0 -86.13864000000001,43.29805,0 -86.13864000000001,43.29805,0 -86.13864000000001,43.29805,0 -86.03903000000001,43.36936,0 -85.77340000000001,43.48617,0 -85.48595,43.499050000000004,0 -85.48595,43.499050000000004,0 -85.44477,43.48964,0 -85.36973,43.43247,0 -85.36973,43.43247,0 -85.18236,43.250280000000004,0 -85.10335,43.177800000000005,0 -85.10335,43.177800000000005,0 -84.95608,42.90673,0 -84.90182,42.86097,0 -84.90182,42.86097,0 -85.04888000000001,42.75591,0 -85.04888000000001,42.75591,0 -85.13302,42.55978,0 -85.13292000000001,42.54899,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+	</kml>
