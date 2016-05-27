@@ -28,7 +28,7 @@
 			</PolyStyle>
 		</Style>
 	<Placemark>
-			<name>Polygon</name>
+			<name>Free Delivery Starting at $199</name>
 			<styleUrl>https://raw.githubusercontent.com/CarlVanderLaan/FlitchandGrain/master/Delivery%20Map/kml-styles.kml#green</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
