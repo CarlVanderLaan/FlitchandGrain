@@ -32,11 +32,11 @@
     </Style>
     <Style id="green">
         <LineStyle>
-            <color>5000FF14</color>
+            <color>5014F000</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>5000FF14</color>
+            <color>5014F000</color>
         </PolyStyle>
     </Style>
 </Document>

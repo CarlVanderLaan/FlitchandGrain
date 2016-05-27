@@ -16,7 +16,8 @@
 		</StyleMap>
 		<Style id="sn_ylw-pushpin">
 			<PolyStyle>
-				<color>5000FF14</color>
+				<color>5014F000</color>
+				<colorMode>normal</colorMode>
 			</PolyStyle>
 		</Style>
 		<Style id="green">
@@ -24,7 +25,8 @@
 				<scale>1.2</scale>
 			</IconStyle>
 			<PolyStyle>
-				<color>5000FF14</color>
+				<color>5014F000</color>
+				<colorMode>normal</colorMode>
 			</PolyStyle>
 		</Style>
 	<Placemark>
