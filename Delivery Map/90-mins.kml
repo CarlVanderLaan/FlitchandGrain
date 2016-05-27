@@ -7,7 +7,7 @@
 		<StyleMap id="msn_ylw-pushpin">
 			<Pair>
 				<key>normal</key>
-				<styleUrl>kml-styles.kml#orange</styleUrl>
+				<styleUrl>https://raw.githubusercontent.com/CarlVanderLaan/FlitchandGrain/master/Delivery%20Map/kml-styles.kml#orange</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
