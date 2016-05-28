@@ -28,7 +28,7 @@
 			</PolyStyle>
 		</Style>
 	<Placemark>
-			<name>Polygon</name>
+			<name>Free Delivery for Orders Over $399</name>
 			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>

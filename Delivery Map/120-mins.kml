@@ -28,7 +28,7 @@
 			</PolyStyle>
 		</Style>
 	<Placemark>
-			<name>Polygon</name>
+			<name>Free Delivery for Orders Over $499</name>
 			<styleUrl>https://raw.githubusercontent.com/CarlVanderLaan/FlitchandGrain/master/Delivery%20Map/kml-styles.kml#red</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
